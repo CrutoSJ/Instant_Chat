@@ -78,7 +78,7 @@ Once you've set up the application, you can start using Instant Chat:
 
 ## Contributing
 
-We welcome contributions to make Instant Chat even better. If you'd like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to make Instant Chat even better. If you'd like to contribute.
 
 ## License
 
