@@ -66,7 +66,7 @@ Your Instant Chat application should now be running locally. You can access it b
 
 ## Configuration
 
-You will need to configure your Instant Chat application by providing necessary environment variables. Refer to the `.env` file in the `server` directory for configuration options.
+You will need to configure your Instant Chat application by providing necessary environment variables. Refer to the `.env` file in the `backend` directory for configuration options. (Note: Don't forget to add your own Private Key and Private Id in the necessary files".
 
 ## Usage
 
